@@ -1,0 +1,21 @@
+@tailwind base;
+
+/* Write your own custom base styles here */
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Write you own custom component styles here */
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
+
+@media (min-width: 1025px) {
+  .desktop-min-h-100 {
+    min-height: calc(100vh);
+  }
+}
