@@ -14,7 +14,6 @@ export default function Home() {
           </title>
         </Head>
         <Hero />
-        <BridgeCaseStudy />
       </Layout>
     </>
   );
