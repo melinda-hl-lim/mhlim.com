@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Container from '../components/container';
 import Layout from '../components/layout';
 import Hero from '../components/home/hero';
-import BridgeCaseStudy from '../components/home/BridgeCaseStudy';
+import GanderCaseStudy from '../components/home/GanderCaseStudy';
 
 export default function Home() {
   return (
@@ -13,7 +13,10 @@ export default function Home() {
             Melinda Lim, Fullstack Web Developer
           </title>
         </Head>
+        {/* Melinda intro section */}
         <Hero />
+        {/* Gander Case Study */}
+        <GanderCaseStudy />
       </Layout>
     </>
   );

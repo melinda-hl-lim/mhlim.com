@@ -1,6 +1,6 @@
 import LazyLoad from 'react-lazyload';
 
-export default function BridgeCaseStudy() {
+export default function GanderCaseStudy() {
   return (
     <section className="bg-gray-100">
       <div className="flex flex-1 justify-around flex-col lg:flex-row">
@@ -8,15 +8,17 @@ export default function BridgeCaseStudy() {
           <div className="max-w-2xl">
             <LazyLoad offset={100} once>
               <img
-                alt="bridgeapi logo"
-                src="/assets/images/bridge_logo.svg"
+                alt="gander logo"
+                src="/assets/images/gander_logo.svg"
                 className="md:max-w-md self-center lg:hidden mx-auto mb-4"
               />
 
-              <video autoPlay loop muted playsInline>
-                <source src="/assets/gifs/bridge_min.webm" type="video/webm" />
-                <source src="/assets/gifs/bridge_min.mp4" type="video/mp4" />
-              </video>
+              <img id="gander-demo" src="/assets/gifs/banner1_compressed.gif" alt="gander demo" />
+
+              {/* <video autoPlay loop muted playsInline>
+                <source src="/assets/gifs/banner1_compressed.gif" type="video/gif" />
+                <source src="/assets/gifs/banner1_compressed.gif" type="video/gif" />
+              </video> */}
             </LazyLoad>
           </div>
         </div>
@@ -25,8 +27,8 @@ export default function BridgeCaseStudy() {
           <LazyLoad offset={100} once>
             <div className="flex flex-col">
               <img
-                alt="bridgeapi logo"
-                src="/assets/images/bridge_logo.svg"
+                alt="gander logo"
+                src="/assets/images/gander_logo.svg"
                 className="md:max-w-md self-center hidden lg:block"
               />
             </div>

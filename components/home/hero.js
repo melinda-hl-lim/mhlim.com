@@ -41,7 +41,7 @@ export default function Hero() {
               <p
                 className="mt-3 mb-4 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               >
-                I&apos;m a full-stack software engineer, currently located in Asheville, North Carolina.
+                I&apos;m a full-stack software engineer, located in Los Angeles, California.
                 <br />
                 <br />
                 Right now, I prefer working with

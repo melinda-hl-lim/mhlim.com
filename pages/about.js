@@ -8,7 +8,7 @@ export default function Home() {
       <Layout>
         <Head>
           <title>
-            Andrew Crotwell, Fullstack Web Developer
+            Melinda Lim
           </title>
         </Head>
         <Container>
