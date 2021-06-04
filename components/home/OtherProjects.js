@@ -4,9 +4,9 @@ export default function OtherProjects() {
   const projects = [
     {
       title: 'Moments',
-      image: 'https://raw.githubusercontent.com/awcrotwell/motion.cr/master/images/logo.svg',
-      description: 'Motion is a framework for building reactive, real-time frontend UI components in your Amber application using pure Crystal that are reusable, testable & encapsulated.',
-      url: 'https://github.com/awcrotwell/motion.cr',
+      image: '/assets/images/moments_screenshots.png',
+      description: 'Moments is an activity and mood tracker designed to help you understand what activities affect your mood. It\'s built with React and Ruby on Rails, for PostgreSQL. ',
+      url: 'https://github.com/melinda-hl-lim/moments-react',
       tags: ['React', 'Rails', 'PWA'],
     },
     {
