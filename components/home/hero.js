@@ -35,13 +35,33 @@ export default function Hero() {
 
             <div className="text-center lg:text-left sm:mt-12">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-                <span className="block xl:inline">Hi there, I&#39;m </span>
+                <span className="block xl:inline">👋 Hi there, I&#39;m </span>
                 <span className="block text-indigo-600 xl:inline">Melinda Lim</span>
               </h1>
               <p
                 className="mt-3 mb-4 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               >
                 I&apos;m a full-stack software engineer, located in Los Angeles, California.
+                <br />
+                <br />
+                I have experience with
+                {' '}
+                <b>Python</b>
+                ,
+                {' '}
+                <b>Go</b>
+                {' '}
+                and
+                {' '}
+                <b>AWS</b>
+                , with proficiency in the
+                <span className="text-indigo-600 font-semibold"> Ruby</span>
+                {' '}
+                and
+                {' '}
+                <span className="text-indigo-600 font-semibold">Javascript</span>
+                {' '}
+                ecosystems.
                 <br />
                 <br />
                 Right now, I prefer working with
@@ -51,11 +71,6 @@ export default function Hero() {
                 <span className="text-indigo-600 font-semibold"> React</span>
                 .
                 Though stay tuned, as I enjoy learning new languages and technologies and hope to keep updating my toolkit.
-                <br />
-                <br />
-                Lately, I have been working with
-                <span className="text-indigo-600 font-semibold"> Go</span>
-                .
               </p>
             </div>
           </main>
