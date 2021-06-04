@@ -3,18 +3,18 @@ import React from 'react';
 export default function OtherProjects() {
   const projects = [
     {
-      title: 'Motion.cr',
+      title: 'Moments',
       image: 'https://raw.githubusercontent.com/awcrotwell/motion.cr/master/images/logo.svg',
       description: 'Motion is a framework for building reactive, real-time frontend UI components in your Amber application using pure Crystal that are reusable, testable & encapsulated.',
       url: 'https://github.com/awcrotwell/motion.cr',
-      tags: ['Crystal', 'Backend', 'SSR'],
+      tags: ['React', 'Rails', 'PWA'],
     },
     {
-      title: 'Jello - Task Manager',
-      image: '/assets/images/jello-dashboard.png',
-      description: 'Jello is a trello clone, react application.',
-      url: 'https://github.com/petertdelia/jello-task-manajer',
-      tags: ['React', 'Frontend', 'CSS'],
+      title: 'Cello - Task Manager',
+      image: '/assets/images/cello_board.png',
+      description: 'Cello is a trello clone built with a React/Redux frontend, an ExpressJS backend, and for MongoDB.',
+      url: 'https://github.com/melinda-hl-lim/cello-task-manager',
+      tags: ['React', 'Redux', 'MongoDB'],
     },
     {
       title: 'Mochi',
