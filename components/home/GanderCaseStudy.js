@@ -36,9 +36,10 @@ export default function GanderCaseStudy() {
           <p
             className="mt-3 mb-4 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0 text-center"
           >
-            BridgeAPI is serverless app that empowers users to collect all their
-            webhooks in one place and chain them to forwarding API requests,
-            thereby establishing event-driven workflows across apps with BridgeAPI
+            Gander is an open-source, drop-in solution for automating "review apps"
+            on a pull request, making it easy for teams to review new features.
+            With a serverless architecture and minimal configuration,
+            Gander requires little effort to set up and no maintenance.
           </p>
 
           <div className="rounded-md shadow max-w-sm mx-auto">
