@@ -12,16 +12,16 @@ export default function OtherProjects() {
     {
       title: 'Cello - Task Manager',
       image: '/assets/images/cello_board.png',
-      description: 'Cello is a trello clone built with a React/Redux frontend, an ExpressJS backend, and for MongoDB.',
+      description: 'Cello, a Trello clone, is a kanban board application for tracking your todos. It\'s built with a React/Redux frontend, an ExpressJS backend, and for MongoDB.',
       url: 'https://github.com/melinda-hl-lim/cello-task-manager',
       tags: ['React', 'Redux', 'MongoDB'],
     },
     {
-      title: 'Mochi',
-      image: 'https://raw.githubusercontent.com/awcrotwell/mochi/master/logo.svg',
-      description: 'Mochi is a authentication shard inspired by devise designed for the Amber framework.',
-      url: 'https://github.com/awcrotwell/mochi',
-      tags: ['Crystal', 'Backend', 'Authentication'],
+      title: 'Request Tub',
+      image: '/assets/images/request_tub.png',
+      description: 'Request Tub, a clone of RequestBin.com, is an application for inspecting requests and webhooks. It\'s built with React, Express, and Socket.IO, for PostgreSQL.',
+      url: 'https://github.com/melinda-hl-lim/request-bin',
+      tags: ['React', 'PostgreSQL', 'Socket.IO'],
     },
   ];
 
