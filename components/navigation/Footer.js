@@ -21,6 +21,7 @@ export default function Footer() {
                 width={50}
                 height={50}
                 fill="white"
+                eager
               />
             </a>
           </div>
@@ -38,6 +39,7 @@ export default function Footer() {
                 src="/assets/images/github.svg"
                 width={50}
                 height={50}
+                eager
               />
             </a>
           </div>
@@ -55,6 +57,7 @@ export default function Footer() {
                 src="/assets/images/linkedin.svg"
                 width={50}
                 height={50}
+                eager
               />
             </a>
           </div>
@@ -72,6 +75,7 @@ export default function Footer() {
                 src="/assets/images/resume.svg"
                 width={50}
                 height={50}
+                eager
               />
             </a>
 

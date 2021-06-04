@@ -13,11 +13,11 @@ export default function GanderCaseStudy() {
                 className="md:max-w-md self-center lg:hidden mx-auto mb-4"
               />
 
-              <img id="gander-demo" src="/assets/gifs/banner1_compressed.gif" alt="gander demo" />
+              <img id="gander-demo" src="/assets/gifs/gander_setup.gif" alt="gander demo" />
 
               {/* <video autoPlay loop muted playsInline>
-                <source src="/assets/gifs/banner1_compressed.gif" type="video/gif" />
-                <source src="/assets/gifs/banner1_compressed.gif" type="video/gif" />
+                <source src="/assets/gifs/gander_setup.gif" type="video/gif" />
+                <source src="/assets/gifs/gander_setup.gif" type="video/gif" />
               </video> */}
             </LazyLoad>
           </div>
