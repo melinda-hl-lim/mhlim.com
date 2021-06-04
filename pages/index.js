@@ -3,6 +3,7 @@ import Container from '../components/container';
 import Layout from '../components/layout';
 import Hero from '../components/home/hero';
 import GanderCaseStudy from '../components/home/GanderCaseStudy';
+import OtherProjects from '../components/home/OtherProjects';
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         <Hero />
         {/* Gander Case Study */}
         <GanderCaseStudy />
+        <OtherProjects />
       </Layout>
     </>
   );
