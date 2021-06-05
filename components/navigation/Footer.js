@@ -63,7 +63,7 @@ export default function Footer() {
           </div>
           <div className="my-2">
             <a
-              href="https://drive.google.com/file/d/1GcecCh_ImY9jdrZgXtW-dyWLyGh8B5Po/view?usp=sharing"
+              href="https://drive.google.com/file/d/1EAliPQyMRH6Gm8WExodZNqnK4IPCk3EK/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="flex flex-col"
