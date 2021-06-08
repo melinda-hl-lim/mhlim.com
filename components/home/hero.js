@@ -41,27 +41,28 @@ export default function Hero() {
               <p
                 className="mt-3 mb-4 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               >
-                I&apos;m a full-stack software engineer, located in Los Angeles, California.
+                I&apos;m a fullstack software engineer, located in Los Angeles, California.
                 <br />
                 <br />
-                I have experience with
+                I am proficient in the
                 {' '}
-                <b>Python</b>
-                ,
-                {' '}
-                <b>Go</b>
-                {' '}
-                and
-                {' '}
-                <b>AWS</b>
-                , with proficiency in the
-                <span className="text-indigo-600 font-semibold"> Ruby</span>
+                <span className="text-indigo-600 font-semibold">Ruby</span>
                 {' '}
                 and
                 {' '}
                 <span className="text-indigo-600 font-semibold">Javascript</span>
                 {' '}
-                ecosystems.
+                ecosystems, with experience in
+                {' '}
+                <b>Go</b>
+                ,
+                {' '}
+                <b>Python</b>
+                {' '}
+                and
+                {' '}
+                <b>AWS</b>
+                .
                 <br />
                 <br />
                 Right now, I prefer working with
